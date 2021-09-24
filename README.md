@@ -9,10 +9,9 @@ Real-Time Bus Tracker is a project that maps an animated bus marker passing by a
 
 # How to Run the Files
 1. Cick the GREEN “Code” button on the Real-Time-Bus-Tracker repository page.
-2. Click the copy icon to obtain a copy of the SSH Key.
-3. Click Download Zip to download the repository files to your local machine.
-4. Extract files from the Real-Time-Bus-Tracker repository Zip folder.
-5. Drag and drop the index.html file to any browser.
+2. Click Download Zip to download the repository files to your local machine.
+3. Extract files from the Real-Time-Bus-Tracker repository Zip folder.
+4. Drag and drop the index.html file to any browser.
 
 
 # Future Enhancements
